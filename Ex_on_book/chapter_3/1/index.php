@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>布尔类型示例</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>甯冨皵绫诲瀷绀轰緥</title>
 <style type="text/css">
 <!--
 body,td,th {
@@ -21,9 +21,9 @@ body {
 <?php
         $boo = true;
         if($boo == true)
-                echo '变量$boo为真!';
+                echo '鍙橀噺$boo涓虹湡!';
         else
-                echo '变量$boo为假!!';
+                echo '鍙橀噺$boo涓哄亣!!';
 ?>
 </div>
 </body>
